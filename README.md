@@ -1,4 +1,4 @@
-# My first React.JS project
+# A simple photo gallery application for web
 
 ## Technologies used:
 
